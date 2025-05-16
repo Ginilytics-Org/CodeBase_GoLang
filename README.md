@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information and examples, refer to the [Gin Web Framework documentation](https://gin-gonic.com/docs/).
+For more information and examples, refer to the [Gin Web Framework documentation](https://gin-gonic.com/en/).
