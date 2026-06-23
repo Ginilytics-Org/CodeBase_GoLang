@@ -1,6 +1,6 @@
 package constant
 
-type ResponseStatus int
+type ResponseStatus int 
 type Headers int
 type General int
 

@@ -2,7 +2,7 @@ module CodeBase_GoLang
 
 go 1.23.0
 
-toolchain go1.24.3
+toolchain go1.24.3 
 
 require (
 	github.com/antonfisher/nested-logrus-formatter v1.3.1

@@ -5,7 +5,7 @@
 This repository contains sample code demonstrating best practices in Go (Golang) development.
 It serves as a foundational template for building scalable and maintainable Go applications.
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ```
 .
